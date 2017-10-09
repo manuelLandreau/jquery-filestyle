@@ -1,0 +1,20 @@
+{
+  "name": "jqueryfilestyle",
+  "description": "jquery-filestyle",
+  "homepage": "http://markusslima.github.io/jquery-filestyle/",
+  "main": "src/jquery-filestyle.min.css",
+  "version": "1.5.1",
+  "engines": {
+    "node": ">=0.4.0"
+  },
+  "maintainers": [
+    {
+      "name": "markusslima"
+    }
+  },
+  "license": "github"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manuelLandreau/jquery-filestyle.git"
+  }
+}
